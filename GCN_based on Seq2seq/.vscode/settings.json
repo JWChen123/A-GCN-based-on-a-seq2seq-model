@@ -1,0 +1,11 @@
+{
+    "editor.fontSize": 18,
+    "python.pythonPath": "C:\\Anaconda3\\python.exe",
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "yapf",
+    "git.ignoreMissingGitWarning": true,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "markdown.preview.fontSize": 18,
+    "terminal.integrated.fontSize": 18,
+    "python.terminal.activateEnvironment": true
+}
